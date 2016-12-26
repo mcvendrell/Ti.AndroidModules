@@ -15,7 +15,7 @@ If you have some of this packages and want to share it, you can do a pull reques
 You even don't need to use git to do this task and upload the files. You can do it all through GitHub easily with 3 simple steps:
 
 1. Click create new file button
-2. Set "title" of the file as file/ProjectName/readme.md
+2. Set "title" of the file as files/ProjectName/readme.md
 3. Fill readme info
 4. Click "upload file" and set the commit info
 
